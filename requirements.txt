@@ -1,0 +1,6 @@
+robotframework
+robotframework-faker
+robotframework-jsonlibrary
+robotframework-jsonvalidator
+robotframework-pythonlibcore
+robotframework-requests
